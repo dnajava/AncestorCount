@@ -4,6 +4,7 @@
   *
   * Kaava: n = 2 ** i - 1
   *
+  *  @author Ilpo Kantonen 2016
   */
 import java.lang.Math;
 
