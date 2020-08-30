@@ -12,4 +12,4 @@ omaSyntymaVuosi = 1962
 print('Sukupolvi\tSyntymavuosi\tIhmisia')
 
 for i in range(0, ANCESTORS):    
-    print('%d\t\t%d\t\t%d' %(i,omaSyntymaVuosi - AVEMOTHAGE,i))
+    print('%d\t\t%d\t\t%d' %(i,(omaSyntymaVuosi - AVEMOTHAGE),pow(2,(i+1))-1))
