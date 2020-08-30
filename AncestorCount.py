@@ -7,8 +7,6 @@
 
 ANCESTORS = 16
 AVEMOTHAGE = 30
-
-i = 0
 omaSyntymaVuosi = 1962
 
 print('Sukupolvi\tSyntymavuosi\tIhmisia')
