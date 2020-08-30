@@ -2,7 +2,7 @@
 # Laskee summittaisen laskennallisen arvion esipolvien syntymavuodesta
 # ja tarkan maaran ihmisten lukumaarasta esipolvissa.
 # 
-# @author Ilpo Kantonen 6.1.2016
+# author Ilpo Kantonen 6.1.2016 ported to python 30.8.2020
 #
 
 ANCESTORS = 16
